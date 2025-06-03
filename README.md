@@ -11,6 +11,11 @@ A modern Android weather application built with Jetpack Compose that provides re
 - Material 3 design implementation
 - Dark mode support
 
+## Screenshots
+
+<img src="images/Screenshot_20250603_162150.png" width="400" alt="Weather Finder Screenshot 1">
+<img src="images/Screenshot_20250603_162155.png" width="400" alt="Weather Finder Screenshot 2">
+
 ## Technical Stack
 
 ### Architecture & Dependencies
