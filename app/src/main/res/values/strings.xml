@@ -1,0 +1,20 @@
+<resources>
+	<string name="app_name">weatherfi</string>
+	
+	<!-- Locations Overview Screen -->
+	<string name="locations_title">Locations</string>
+	
+	<!-- Location Details Screen -->
+	<string name="back_button_content_description">Back</string>
+	
+	<!-- Weather Details -->
+	<string name="weather_metric_wind">Wind</string>
+	<string name="weather_metric_humidity">Humidity</string>
+	<string name="weather_metric_precipitation">Precipitation</string>
+	
+	<!-- Error Dialog -->
+	<string name="error_dialog_title">Oh no!</string>
+	<string name="error_dialog_no_internet">Please check your internet connection and try again.</string>
+	<string name="error_dialog_generic">An error occurred. Please try again later.</string>
+	<string name="cta_try_again">Try Again</string>
+</resources>

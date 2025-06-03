@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!-- @formatter:off -->
+<journey name="Show Error Dialog when no internet connection is available">
+    <description>A Journey that tests that Error Dialogs are shown when the user has no internet connection and tries to refresh the data.</description>
+    <actions>
+        <action>Put phone in airplane mode to disable internet connections</action><action>Pull to refresh the location list</action><action>Verify the error dialog mentioning missing internet connection is visible.</action><action>Disable airplane mode again and wait until internet connection is available again.</action><action>Click the try again button of the error dialog</action><action>Verify that the updated location list is shown</action>
+    </actions>
+</journey>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!-- @formatter:off -->
+<journey name="Show weather forecast for Linz">
+    <description>A Journey that tests selecting a location and viewing the weather forecast for the next day.</description>
+    <actions>
+        <action>When the locations are loaded click on "Linz"</action><action>Wait until the screen is loaded and then click on the weather forecast for the next day.</action><action>Verify that you can see weather data for Linz one day from now.</action>
+    </actions>
+</journey>
